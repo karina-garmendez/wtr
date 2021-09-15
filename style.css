@@ -15,7 +15,7 @@
 
 body {
     min-height: 100vh;
-    max-width: 100%;
+    max-width: 10%;
     /* background: linear-gradient(#a57230, #b7c3b3); */
     background-image: url("/bgLO.jpg");
 }
