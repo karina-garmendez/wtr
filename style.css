@@ -14,8 +14,7 @@
 }
 
 body {
-    min-height: 10vh;
-    max-width: 10%;
+    min-height: 100vh;
     /* background: linear-gradient(#a57230, #b7c3b3); */
     background-image: url("/bgLO.jpg");
 }
