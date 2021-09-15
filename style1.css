@@ -17,7 +17,7 @@ body {
     min-height: 100vh;
     max-width: 100%;
     /* background: linear-gradient(#a57230, #b7c3b3); */
-    background-image: url("bg2LO.jpg");
+    background-image: url("./bg2LO.jpg");
 }
 
 /* navigation */
